@@ -6,6 +6,7 @@
 	<artifactId>HolaMaven</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>HolaMaven</name>
+	<exec.mainClass>dad.maven.Main</exec.mainClass>
 	<description>Proyecto de Java con Maven</description>
 	<!-- Versión del jdk de Java -->
 	<properties>
